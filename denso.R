@@ -9,7 +9,7 @@ denso730 <- read.csv('DENSOC40670992MSG.csv')
 calib <- read.csv('cal-10pp1110-0810.csv') # time saved as numeric yay!
 
 
-# read library into working environment
+# read ggplot2 library into working environment
 library(ggplot2)
 
 ######################################################################
